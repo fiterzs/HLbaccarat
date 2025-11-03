@@ -12,6 +12,10 @@ Https://www.hailang.bet
 
 https://game.hailang.bet
 
+0.4 版本更新
+修复新牌靴时白屏错误
+修复投注时余额不足错误
+增加移动端设备支持
 
 0.3 版本更新 （2025.10.27）
 
