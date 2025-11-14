@@ -11,6 +11,12 @@ admin@hailang.win
 Https://www.hailang.bet
 
 https://game.hailang.bet
+0.6 版本更新（2025.11.14）
+优化用户界面
+修复大厅胜负路数据显示不正确
+增加外部数据源同步功能
+未来将会开放更多
+大厅桌的04号桌实时同步 pragmatiPlay 的数据源
 
 0.5 版本更新
 优化发牌算法，尽量更接近真实赌场发牌
